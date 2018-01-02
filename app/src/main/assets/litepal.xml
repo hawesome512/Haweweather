@@ -1,0 +1,9 @@
+<litepal>
+    <dbname value="hawe_weather"/>
+    <version value="1"/>
+    <list>
+        <mapping class="com.hawesome.demo.haweweather.db.Province"/>
+        <mapping class="com.hawesome.demo.haweweather.db.City"/>
+        <mapping class="com.hawesome.demo.haweweather.db.County"/>
+    </list>
+</litepal>
